@@ -30,7 +30,7 @@ class Bio extends React.Component {
           Written by <strong>Eva Li</strong> who lives and works in Greater
           Chicagoland building useful things.{' '}
           <a href="https://twitter.com/eeevvaaa">
-            You should follow him on Twitter
+            You should follow her on Twitter
           </a>
         </p>
       </div>
