@@ -40,7 +40,7 @@ List the tasks you pulled this week, and provide a link to the successfully merg
   - [Trello](https://trello.com/c/SqWdgRLM)
 - Ticket 4
   - [Github](https://github.com/Lambda-School-Labs/Labs8-OfflineReader/pull/30)
-  - [Trello](https://trello.com/c/SqWdgRLM)
+  - [Trello](https://trello.com/c/KgNFxPW3)
 
 ####
 
@@ -69,3 +69,6 @@ Since we decided to go with React Redux, I set up a container folder and store f
 Part 2 - Milestone Reflections
 
 Put your response to the weekly question and a link to your team journal assignment here.
+https://docs.google.com/document/d/1XzUVkLkvUvksw3nAFLcz3RKa7zGzvaUsoksuTKDHjdU/edit?ts=5be2f8bd
+https://anywhere-reader-test.netlify.com/
+https://anywhere-reader-test.herokuapp.com
