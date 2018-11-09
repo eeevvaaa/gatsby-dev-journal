@@ -12,6 +12,9 @@ https://github.com/Lambda-School-Labs/Labs8-OfflineReader/graphs/contributors
 
 Provide a paragraph (5-8 sentences) summarizing the work you did this week, the challenges you faced, the tools you used, and your accomplishments
 This week is mostly laying down the foundation for the project.
+
+###
+
 Followed Github guide to quickly set up the repository.
 Added MIT license to the repo.
 Set up fronend folder and file structure as well as built out Sign In page and Sign Up page placeholders.
@@ -51,8 +54,15 @@ Detailed Analysis
 
 Pick one of your tickets and provide a detailed analysis of the work you did. This should be approximately ¼ page of text, and at least three screenshots.
 
+###
+
 Frontend ticket 2
-Initialized frontend app structure set up.
+
+###
+
+Initialized frontend app structure set up has made me realized that there are so many moving parts when setting up a project from scratch.
+When setting up for the app structure, I created a folder for each components, and each folder has a index.js file to organize the exports.
+Since we decided to go with React Redux, I set up a container folder and store folder for actions and reducers for better organization.
 
 ###
 
