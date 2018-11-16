@@ -73,9 +73,10 @@ It has been a huge learning curve with Django REST API implementation. I struggl
 Part 2 - Milestone Reflections
 
 Put your response to the weekly question and a link to your team journal assignment here.
-https://docs.google.com/document/d/1XzUVkLkvUvksw3nAFLcz3RKa7zGzvaUsoksuTKDHjdU/edit?ts=5be2f8bd
-https://anywhere-reader-test.netlify.com/
-https://anywhere-reader-test.herokuapp.com
+
+- https://docs.google.com/document/d/1XzUVkLkvUvksw3nAFLcz3RKa7zGzvaUsoksuTKDHjdU/edit?ts=5be2f8bd
+- https://anywhere-reader-test.netlify.com/
+- https://anywhere-reader-test.herokuapp.com
 
 ###
 
