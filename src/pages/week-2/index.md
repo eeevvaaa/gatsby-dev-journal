@@ -16,6 +16,7 @@ This week is mostly laying down the foundation for the project.
 
 ###
 
+Started the week fixing up some front end codes. Changed the type of password input field from text to password so that when users are typing their password, it would not be exposed. Then we went into a group meeting debugging our backend code so that it would not have any merge conflict and
 Followed Github guide to quickly set up the repository.
 Added MIT license to the repo.
 Set up fronend folder and file structure as well as built out Sign In page and Sign Up page placeholders.
@@ -30,24 +31,28 @@ List the tasks you pulled this week, and provide a link to the successfully merg
 
 ####
 
-- Ticket 1
-  - [Github](https://github.com/Lambda-School-Labs/Labs8-OfflineReader/pull/3)
-  - [Trello](https://trello.com/c/DH8I8lXC)
-- Ticket 2
-  - [Github](https://github.com/Lambda-School-Labs/Labs8-OfflineReader/pull/12)
-  - [Trello](https://trello.com/c/adkBmxB8)
-- Ticket 3
-  - [Github](https://github.com/Lambda-School-Labs/Labs8-OfflineReader/pull/22)
-  - [Trello](https://trello.com/c/SqWdgRLM)
-- Ticket 4
-  - [Github](https://github.com/Lambda-School-Labs/Labs8-OfflineReader/pull/30)
-  - [Trello](https://trello.com/c/KgNFxPW3)
+- Ticket 1 Stripe Frontend
+  - [Github](https://github.com/Lambda-School-Labs/Labs8-OfflineReader/pull/54)
+  - [Trello](https://trello.com/c/zseKxoGT)
+- Ticket 2 Frontend refactoring
+  - [Github](https://github.com/Lambda-School-Labs/Labs8-OfflineReader/pull/36)
+  - [Trello](https://trello.com/c/m0RxV7YH)
 
 ####
 
-- Ticket 1
-  - [Heroku](https://anywhere-reader-test.herokuapp.com/)
-  - [Trello](https://trello.com/c/oW9FtsXC)
+- Ticket 1 Dev Server Debug
+
+  - [Github](https://github.com/Lambda-School-Labs/Labs8-OfflineReader/pull/35)
+  - [Trello](https://trello.com/c/RiyoyRZL)
+
+- Ticket 2 Pages/article GET POST
+
+  - [Github](https://github.com/Lambda-School-Labs/Labs8-OfflineReader/pull/45)
+  - [Trello](https://trello.com/c/jPkBbuV6)
+
+- Ticket 3 Stripe Backend (WIP)
+  - [Github Branch](https://github.com/Lambda-School-Labs/Labs8-OfflineReader/tree/feature/stripe-api)
+  - [Trello](https://trello.com/c/F0ETpiH1)
 
 ###
 
@@ -57,13 +62,11 @@ Pick one of your tickets and provide a detailed analysis of the work you did. Th
 
 ###
 
-Frontend ticket 2
+Ticket 2 Pages/article GET POST
 
 ###
 
-Initialized frontend app structure set up has made me realized that there are so many moving parts when setting up a project from scratch.
-When setting up for the app structure, I created a folder for each components, and each folder has a index.js file to organize the exports.
-Since we decided to go with React Redux, I set up a container folder and store folder for actions and reducers for better organization.
+It has been a huge learning curve with Django REST API implementation. I struggle with finding reference from what I already know and relate to what I am learning. I was able to log in to the account and make GET and POST request, however, I was not able to figured out the GET BY ID, POST, and DELETE requests due to they all need to target the id of the specific article.
 
 ###
 
@@ -73,3 +76,7 @@ Put your response to the weekly question and a link to your team journal assignm
 https://docs.google.com/document/d/1XzUVkLkvUvksw3nAFLcz3RKa7zGzvaUsoksuTKDHjdU/edit?ts=5be2f8bd
 https://anywhere-reader-test.netlify.com/
 https://anywhere-reader-test.herokuapp.com
+
+###
+
+[Whiteboard Interview: Matrix Spiral](https://youtu.be/i6hJDEInahE)
