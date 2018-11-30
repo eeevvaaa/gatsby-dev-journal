@@ -63,7 +63,10 @@ Backend Ticket 1 Create Articles models
 
 ###
 
-I refactored the models.py in pages app and set up the data structure so that the scraper could do a POST request to send the information it scraped and send it to our database. I made new migrations, but as I was moving forward, I realized that our database was not updating according to my changes. So I had to delete the table, remake migrations, and migrate. I was thinking it might not be too bad since I had experienced that with sqlite. However, there was more to Postgresql. I had to be mindful with foreign keys, so instead of deleting a table, I needed to delete cascade. Once it was done, everything started fall into places and I was gaining momentum. In week 2 I was struggling to get PUT and DELETE request to work due to unable to target a specific id of the article. This issue was fixed this week.
+![models.py](models.png)
+I refactored the models.py in pages app and set up the data structure so that the scraper could do a POST request to send the information it scraped and send it to our database. I made new migrations, but as I was moving forward, I realized that our database was not updating according to my changes. So I had to delete the table, remake migrations, and migrate. I was thinking it might not be too bad since I had experienced that with sqlite. However, there was more to Postgresql. I had to be mindful with foreign keys, so instead of deleting a table, I needed to delete cascade. Once it was done, everything started fall into places and I was gaining momentum. 
+![postgresql](postgres.png)
+In week 2 I was struggling to get PUT and DELETE request to work due to unable to target a specific id of the article. This issue was fixed this week.
 
 ###
 
