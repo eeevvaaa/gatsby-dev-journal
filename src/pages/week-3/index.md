@@ -80,4 +80,4 @@ Put your response to the weekly question and a link to your team journal assignm
 
 ###
 
-[Whiteboard Interview: Merging Two Packages](https://youtu.be/)
+[Whiteboard Interview: Merging Two Packages](https://youtu.be/mjiEI0qIOsU)
