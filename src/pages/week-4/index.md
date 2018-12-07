@@ -62,6 +62,13 @@ Backend Ticket 1 Organize URLs in backend
 
 ###
 
+We re-organized all the urls. Changed everything to path and includes and made an new app to organized authentication.
+I have added user id to the pages article table. I named it user_id, and in my local Postgres database, the column became user_id_id.
+By adding db_column=user_id as an attribute to ForeignKeyField, the issue was fixed.
+The mostly challenging part after that was displaying artcles that are saved based on the current logged in user.
+First went the approve of making a request getting the currently user information back, and match that with the user_id in the pages article table.
+My blocker was not being able to access the current user id key value.
+
 ###
 
 Part 2 - Milestone Reflections
