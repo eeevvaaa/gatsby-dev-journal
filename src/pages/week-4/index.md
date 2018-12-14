@@ -81,4 +81,4 @@ Put your response to the weekly question and a link to your team journal assignm
 
 ###
 
-[Whiteboard Interview: Merging Two Packages](https://youtu.be/mjiEI0qIOsU)
+[Whiteboard Interview: Min Heap](https://youtu.be/W_D_6GZ-h2s)
